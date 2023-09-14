@@ -7,7 +7,7 @@
 - Skills I learned and improved: data preparation, data modeling, data analysis, and data visualization.
 - Tools that I'm using: Microsoft tools; Word, Excel, Powerpoint, Databases; PgAdmin, PostgreSQL, Power BI, Python and libraries; Pandas, Seaborn, Numpy, Scipy, and Matplotlib
 
-## My work experience
+## My Work Experience
 
 - Working as a Data Encoder at [Department of Health Philippines](https://doh.gov.ph/)
 - Worked as a Graphic artist at [Upwork](https://www.upwork.com/freelancers/~0132219123cbbf62ce)
