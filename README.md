@@ -15,5 +15,5 @@
 - Worked as a Customer Service Representativer at [Transcom Worldwide Philippines](https://www.transcom.com/ph/)
 
 ## Contact Information
-- LinkedIn at [johnnicolas05](https://www.linkedin.com/in/john-nicolas-770a84171)
+- LinkedIn at [johnnicolas05](https://www.linkedin.com/in/johnnicolas05)
 - Email me at [jlcnicolas@gmail.com](mailto:jlcnicolas@gmail.com)
